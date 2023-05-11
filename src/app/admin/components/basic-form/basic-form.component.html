@@ -1,0 +1,45 @@
+<p>
+   NAME: {{nameField.value}}
+    <input type="text" [formControl]="nameField"/>
+      <button (click)="getNameValue()">OBTENER VALUE</button>
+    
+    <!-- <code>
+        <pre>
+            {{nameField | json}}
+        </pre>
+       </code> -->
+
+</p>
+
+<!--EMAIL-->
+<p>
+    EMAIL: {{emailField.value}}
+     <input type="email" [formControl]="emailField"/>
+       <!-- <button (click)="getNameValue()">OBTENER VALUE</button> -->
+</p>
+<!--TELEFONO-->
+<p>
+    TELEFONO: {{phoneField.value}}
+     <input type="tel" [formControl]="phoneField"/>
+       <!-- <button (click)="getNameValue()">OBTENER VALUE</button> -->
+</p>
+
+<!--colorField-->
+<p>
+    COLOR: {{colorField.value}}
+     <input type="color" [formControl]="colorField"/>
+     
+</p>
+<!--date-->
+
+<p>
+    date: {{dateField.value}}
+     <input type="date" [formControl]="dateField"/>
+     
+</p>
+<!--PHONE-->
+<p>
+    AGE: {{ageField.value}}
+     <input type="number" [formControl]="ageField"/>
+       <!-- <button (click)="getNameValue()">OBTENER VALUE</button> -->
+</p>

@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "image": "assets/images/41hE6ZRuQyL._AC_.jpg",
+        "title": "Trajes",
+        "price": 29.90,
+        "descripcion": "Trajes de caballero para bebés y niños, camisa de manga corta para bebés, pantalones de babero y conjunto de ropa de corbatín"
+    },
+    {
+        "id": "2",
+        "image": "assets/images/41j6w4iLB4L._AC_.jpg",
+        "title": "Conjunto para nina",
+        "price": 19.99,
+        "descripcion": "Aalizzwell Preemie - Conjunto de ropa para bebé recién nacido, mameluco acanalado, pantalones para otoño e invierno"
+    },
+    {
+        "id": "3",
+        "image": "assets/images/61idfDWFUxL._AC_UL1350_.jpg",
+        "title": "Body",
+        "price": 15.99,
+        "descripcion": "Ropa divertida y linda para bebé niño y niña, hecha a mano | Acaba de pasar 9 meses en el interior de los mamelucos"
+    },
+    {
+        "id": "4",
+        "image": "assets/images/61rAtOz3koL._AC_UL1248_.jpg",
+        "title": "Pantalones",
+        "price": 22.80,
+        "descripcion": "Simple Joys by Carters Conjunto de 6 piezas para bebé niña (manga corta y larga) y pantalones"
+    },
+    {
+        "id": "5",
+        "image": "assets/images/61rhuy6jc6L._SX569_.jpg",
+        "title": "Body blanco",
+        "price": 15.95,
+        "descripcion": "Simple Joys by Carters Conjunto de 6 piezas para bebé niña (manga corta y larga) y pantalones"
+    },
+    {
+        "id": "6",
+        "image": "assets/images/71Z23aLqDwL._AC_UL1500_.jpg",
+        "title": "Conjunto unisex de body",
+        "price": 12.99,
+        "descripcion": "Hudson Baby - Conjunto unisex de body, pantalones cortos de algodón y zapatos para bebé"
+    },
+    {
+        "id": "7",
+        "image": "assets/images/81a3qELxyYL._AC_UL1500_.jpg",
+        "title": "Conjunto de nina ",
+        "price": 20.99,
+        "descripcion": "Ropa de bebé recién nacido, mameluco floral con tirantes y manga con volantes, mono con diadema para primavera y verano"
+    },
+    {
+        "id": "8",
+        "image": "assets/images/81qzTObO3fL._SX679_.jpg",
+        "title": "Bata",
+        "price": 10.99,
+        "descripcion": "Hudson Baby - Bata de peluche unisex para bebé"
+    },
+    {
+        "id": "9",
+        "image": "assets/images/81UH6rSUOAL._AC_UL1500_.jpg",
+        "title": "Paquete de mameluco",
+        "price": 21.99,
+        "descripcion": "Gerber - Mameluco de manga corta unisex para bebé, paquete de 8"
+    }
+]

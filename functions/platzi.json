@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "platzi-store-f637e",
+  "private_key_id": "0cd2722fe7f20a8c11c71a8104b3144fd760068c",
+  "private_key": "-----BEGIN PRIVATE KEY-----/nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCFcdd2BMRN1H0/nJbcGXUHHctE913rJpfQ2uALM2GVoL35hYsqjclJGvsB+JoMSX7JREsvMfH/AoscB\nFISN/fEz/6CR1F/ccmLfOfjZ3pvWp7Oga8kruXmzGPjtVVQQ3NCj8hw9cLPZMitr/nQOiNtuSzWRjTu7XEeNcZKF65LDpu+11nvKuMdGVzrYKVtZvdMOd3+IKAxhwrEWt8/nQCAcZXK1V2I+dlCcy2Yiv506kICnA4KvCxwFljBYUlwyt+OTUQ42MGScBfMrUvWC\nHVhSXOPalHh6/E9rrxjwAhZgcju6SPXzo5wD7BSIfzWjhfP8AYC3WL8jue93/Lj2\nRJt+r+mbAgMBAAECggEAU+XqOszu4SBS0wGCrsOdbcRaYytEruqIOScuPrLEk1cE\ngMCd7C29F0vaFi47trObd6RyaMDg0LsM35CpBGBj5iB4ntF5ZugjiW+b/UJXh2ET\nKyOs4LPawernoGCkaG2r21MLlhukAx3G2yRB4xDOqCC5tL2OA5JhGUT0PYO69sH9/nUPaaqhq4bsfN6z0iP63CF8DzKtconUVK05SB/0CW2Lxr6y012Fr+Cl8Sh3GAhPWR/nBnauPK9R6Y9kRUYsEQt03cD/58gIZDXOk6ZpMtPLu7nWlnQ8WtkLh25lYPLelLRG/nPhiIkxxWphYH4wFCAxVeHDB9fXgReBONwyQJTYM7AQKBgQDrAG94dm/jLp3aLV7H/nIWSskuORxmGzo1ksGk2UYb64afodvpPTo64cYzCOfugDFraKe7U+nC/Lh2EOypSj/nBbBOmVHkAjtfPw8jRN+r9jZP5Wjzpbj0PRRNEYK7Xa1OTTLstUDKmRnND8+TgEzr/nKCkdeX/P8R9DZrZRW23gwugnWwKBgQDTbWSNiJYLKDJnxSawnfEL1oF6C+Wv97w5/nA1xiKf3yG+l4Q3B57DiTBVPX3A/wZL6hBHm7nxkXZx10nloSmfUz/XgRvFQukaWD/n5h8ayoekNZpkY9AwhUlt+iGfgyfTWd33S00NbAGF/8qiXPkMQhzM2C7WPVfnLpkI/n3IRQV/EawQKBgFZtn5GXRYkxMN74Br6H2oXZtBZ99prhvb8JoXSsCj+6wkFEQQv6/nS+Om20ndBKl2JgaCfuMbAD0Dej+9Y7MdOX1+x+5qn7lk8MVQ5E5TTCBQSCwry/0P/npbK+eO0+A6ojnFIQS1b3vdR8NySRcDigWZa8g7RPgucAFJeRX7TlGgq3AoGAYy3i/nyH31HMC7fHBAaQN+KrZyQGVKVtSYqAoKkUXviV5MlAzWu2rzUwxhu1XQ6EzqG7B0/nxm2ooJDPgYAy8pzkKIJTi8ZTmxDZmtkdaDzvijlW9pbX95reykdW9HPa/8sdU78w/nIwayZECMtsN0VKrCxdj3h6p5DMqQIVcIfoPyZ0ECgYEA46ei65cdz78/acS0TMrL/n7p2sKGsRiqp8C/m/hbHAsXABSkmEooVFN6KG2Q/FMzNHnCodZVkeGG9aQgkWoDt6/nUVzSqMdKt2ZWSvnBa1UiCdOzgglCq63P5Nu2TrNvGIraK4KwnZ12EwAu5GsFO6bj/nrUJY+vEgfYOJ4Bpx38x4Zkg=/n-----END PRIVATE KEY-----/n",
+  "client_email": "firebase-adminsdk-9jkx4@platzi-store-f637e.iam.gserviceaccount.com",
+  "client_id": "113661539058470273026",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-9jkx4%40platzi-store-f637e.iam.gserviceaccount.com"
+}
